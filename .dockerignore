@@ -1,0 +1,10 @@
+.git
+*.pdf
+*.md
+.env
+compose.yaml
+not_tested_main.py
+proxy.yaml
+LICENSE
+nginx/*
+haproxy/*
