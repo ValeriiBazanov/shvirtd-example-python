@@ -8,3 +8,4 @@ proxy.yaml
 LICENSE
 nginx/*
 haproxy/*
+*.sh
